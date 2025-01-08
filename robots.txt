@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sizhaolu.github.io./sitemap.xml
+User-agent: * Disallow: Sitemap: https://sizhaolu.github.io/sitemap.xml
