@@ -91,7 +91,7 @@
       "title": "Graduate Studies Fellowship Scholarship",
       "date": "2012-01-01",
       "awarder": "University of Nebraska Medical Center",
-      "url": "https://www.unmc.edu/gradstudies/admissions/costs-funding/assistantships-fellowships.html",
+      "url": "ttps://www.unmc.edu/gradstudies/admissions/costs-funding/assistantships-fellowships.html",
       "summary": "The award supported the research of iron homeostasis in metabolic syndrome."
     },
     {
@@ -105,12 +105,14 @@
       "title": "ATVB Travel Award for Young Investigators",
       "date": "2019-05-01",
       "awarder": "American Heart Association",
+      "url": "",
       "summary": "The award supported the travel and expense to attend Vascular Discovery 2019."
     },
     {
       "title": "Travel Award",
       "date": "2020-04-02",
       "awarder": "UCD Postdoctoral Association",
+      "url": "",
       "summary": "The award supported expense to attend Advanced Single Cell RNA-Seq Workshop at UC Davis."
     }
   ],
@@ -211,12 +213,8 @@
   "projects": [
     {
       "name": "A novel link between lipid and iron metabolism.",
-      "summary": "In my dissertation work, I characterized molecular mechanisms for the induction of hepcidin expression by two lipid species. Specifically, saturated fatty acids induce hepcidin expression by activating the nucleo-cytosolic shuttling of Human Antigen R (HuR), which stabilizes hepcidin mRNA through direct interaction with the AU-rich element in its 3’UTR. In addition, I have discovered that ceramide, a lipid intermediate, activates inflammatory signaling pathway, JAK/STAT3, and STAT3 directly interacts with its response element in the hepcidin promoter, therefore activates transcription.",
-      "highlights": [
-        "Lipid metabolism",
-        "Iron metabolism",
-        "Hepcidin"
-      ],
+      "summary": "In my dissertation work, I characterized molecular mechanisms for the induction of hepcidin expression by two lipid species. Specifically, saturated fatty acids induce hepcidin expression by activating the nucleo-cytosolic shuttling of Human Antigen R (HuR), which stabilizes hepcidin mRNA through direct interaction with the AU-rich element in its 3'UTR. In addition, I have discovered that ceramide, a lipid intermediate, activates inflammatory signaling pathway, JAK/STAT3, and STAT3 directly interacts with its response element in the hepcidin promoter, therefore activates transcription.",
+      "highlights": ["Lipid metabolism", "Iron metabolism", "Hepcidin"],
       "startDate": "2010-09-01",
       "endDate": "2015-08-01",
       "url": "https://digitalcommons.unmc.edu/etd/18/"
