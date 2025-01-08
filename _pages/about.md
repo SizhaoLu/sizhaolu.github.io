@@ -1,15 +1,16 @@
 ---
 layout: about
-title: Sizhao Lu Research Profile
+title: about
 permalink: /
-subtitle: Cardiovascular Researcher
+subtitle: Research interests: Cardiovascular disease, Genomics,
+Precision Medicine
 
 profile:
   align: right
   image: prof_pic_color.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Division of Renal Diseases and Hypertension1</p>
+    <p>University of Colorado Anschutz Medical Campus</p>
     <p>12700 E 19th Ave, Mail Stop C281</p>
     <p>Aurora, CO 80045</p>
     <p></p>
