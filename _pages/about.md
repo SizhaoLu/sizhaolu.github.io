@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research interests: Cardiovascular disease, Genomics,
-Precision Medicine
+subtitle: Biology researcher interested in Cardiovascular disease, Genomics, Precision Medicine
 
 profile:
   align: right
