@@ -40,7 +40,7 @@
       "url": "https://medschool.cuanschutz.edu/renal",
       "startDate": "2021-01-01",
       "endDate": "2023-09-30",
-      "summary": "Postdotoral training in Dr. Weiser-Evans Laboratory.",
+      "summary": "Junior faculty appointment.",
       "highlights": [
         "Metabolic repogramming of vascular smooth muscle cells in diseases"
       ]
@@ -51,7 +51,7 @@
       "url": "https://medschool.cuanschutz.edu/renal",
       "startDate": "2023-10-01",
       "endDate": "",
-      "summary": "Postdotoral training in Dr. Weiser-Evans Laboratory.",
+      "summary": "Junior faculty appointment.",
       "highlights": [
         "Function of perivascular progenitor cells in cardiovascular inflammation and fibrosis"
       ]
@@ -91,7 +91,7 @@
       "title": "Graduate Studies Fellowship Scholarship",
       "date": "2012-01-01",
       "awarder": "University of Nebraska Medical Center",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "url": "https://www.unmc.edu/gradstudies/admissions/costs-funding/assistantships-fellowships.html",
       "summary": "The award supported the research of iron homeostasis in metabolic syndrome."
     },
     {
@@ -105,14 +105,12 @@
       "title": "ATVB Travel Award for Young Investigators",
       "date": "2019-05-01",
       "awarder": "American Heart Association",
-      "url": "",
       "summary": "The award supported the travel and expense to attend Vascular Discovery 2019."
     },
     {
       "title": "Travel Award",
       "date": "2020-04-02",
       "awarder": "UCD Postdoctoral Association",
-      "url": "",
       "summary": "The award supported expense to attend Advanced Single Cell RNA-Seq Workshop at UC Davis."
     }
   ],
@@ -133,7 +131,7 @@
     },
     {
       "name": "Smooth muscle–derived progenitor cell myofibroblast differentiation through KLF4 downregulation promotes arterial remodeling and fibrosis",
-      "publisher": " JCI Insight. 2020 Dec 3;5(23):e139445",
+      "publisher": "JCI Insight. 2020 Dec 3;5(23):e139445",
       "releaseDate": "2020-12-03",
       "url": "https://insight.jci.org/articles/view/139445",
       "summary": "Identified and characterized a novel smooth muscle-derived vascular progenitor cell population (AdvSca1-SM), demonstrating its role in adventitial remodeling through lineage tracing and RNA-seq."
