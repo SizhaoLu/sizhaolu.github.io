@@ -14,10 +14,31 @@ profile:
     <p>Aurora, CO 80045</p>
     <p></p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-  I received my PhD from the Department of Biochemistry and Molecular Biology at the University of Nebraska Medical Center, where I pioneered research on the relationship between lipid and iron metabolism. My dissertation work led to groundbreaking discoveries about how lipids directly influence hepcidin, the master regulator of iron homeostasis. I characterized the signaling pathways through which fatty acids and ceramides upregulate hepcidin expression, publishing these findings in the Journal of Biological Chemistry and PLOS ONE. This work equipped me with extensive expertise in molecular biology and gene regulation.\
-  As a postdoctoral researcher in Dr. Mary Weiser-Evans' laboratory, I spearheaded multiple projects investigating smooth muscle cells (SMCs) and their derivative vascular resident progenitor cells in vascular pathology. A major achievement was establishing and validating a lineage tracing system for SMC-derived vascular progenitor (AdvSca1-SM) cells, demonstrating their crucial role in vascular injury and remodeling. Our subsequent research expanded understanding of these progenitors in atherosclerosis, cardiac fibrosis, and therapeutic applications. Current collaborative work explores their role in the tumor microenvironment. My postdoctoral achievements were recognized through an American Heart Association fellowship and several travel awards, including the ATVB Young Investigator Award.\
-  I am currently an Assistant Professor in Division of Renal Diseases and Hypertension at University of Colorado Anschutz Medical Campus. With 28 publications, including 9 as first author, and numerous presentations at international conferences, I have established a strong foundation in cardiovascular research. My long-term vision is to decode the complex signaling networks underlying cardiovascular diseases and develop precision therapeutic approaches guided by genomic insights. In the immediate future, I aim to establish an independent research program integrating Cardiovascular Biology, Genomics, and Bioinformatics.
+# About Me
+
+### PhD Research
+
+I received my PhD from the Department of Biochemistry and Molecular Biology at the University of Nebraska Medical Center, where I investigated the critical intersection of lipid and iron metabolism. My dissertation research revealed novel mechanisms by which lipids influence hepcidin, the master regulator of iron homeostasis. By characterizing how fatty acids and ceramides upregulate hepcidin expression, I contributed fundamental insights to the field, published in the *Journal of Biological Chemistry* and *PLOS ONE*.
+
+### Postdoctoral Research
+
+As a postdoctoral researcher in Dr. Mary Weiser-Evans' laboratory, I focused on smooth muscle cells (SMCs) and vascular resident progenitor cells in vascular pathology. Key achievements include:
+
+- Establishing a novel lineage tracing system for SMC-derived vascular progenitor (AdvSca1-SM) cells, demonstrating their essential role in vascular injury and remodeling
+- Expanding our understanding of these progenitors in atherosclerosis and cardiac fibrosis
+- Leading collaborative investigations into their role in the tumor microenvironment
+
+My work was recognized through an American Heart Association fellowship and several awards, including the prestigious ATVB Young Investigator Award.
+
+### Current Position & Future Goals
+
+Currently, I serve as an Assistant Professor in the Division of Renal Diseases and Hypertension at the University of Colorado Anschutz Medical Campus. With 28 publications (9 as first author) and numerous presentations at international conferences, I have established expertise in cardiovascular research.
+
+My research vision focuses on:
+- Decoding complex signaling networks in cardiovascular and other diseases
+- Developing precision therapeutic approaches guided by genomic insights
+- Building an independent research program that integrates Cardiovascular Biology, Genomics, and Bioinformatics
