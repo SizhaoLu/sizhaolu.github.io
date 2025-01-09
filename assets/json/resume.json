@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sizhao Lu M.D. Ph.D.",
-    "label": "Scientist",
+    "label": "Research Assistant Professor",
     "image": "",
     "email": "sizhao.lu@cuanschutz.edu",
     "phone": "(303) 724-4820",
     "url": "https://sizhaolu.github.io/",
-    "summary": "As a molecular biologist, I specialize in cardiovascular and metabolic disease research. My expertise spans from developing preclinical models of cardiovascular diseases to investigating molecular signaling pathways. I have extensive experience in bioinformatics analysis of omics data and its applications in research. I am particularly passionate about uncovering the genetic foundations of diseases and advancing personalized treatment approaches.",
+    "summary": "My expertise spans from developing preclinical models of complex diseases to investigating molecular signaling pathways. I have extensive experience in bioinformatics analysis of omics data and its applications in research. I am particularly passionate about uncovering the genetic foundations of diseases and advancing personalized treatment approaches.",
     "location": {
       "address": "12700 E 19th Ave, Mail Stop C281",
       "postalCode": "CO 80045",
@@ -29,7 +29,7 @@
       "url": "https://medschool.cuanschutz.edu/renal",
       "startDate": "2015-10-17",
       "endDate": "2020-12-31",
-      "summary": "Postdotoral training in Dr. Weiser-Evans Laboratory.",
+      "summary": "Postdoctoral training in Dr. Weiser-Evans Laboratory.",
       "highlights": [
         "Function of vascular smooth muscle cells and progenitor cells in cardiovascular remodeling"
       ]
@@ -167,7 +167,7 @@
         "R programming",
         "Python programming",
         "Linux Shell Scripting",
-        "HPC (Summit and Alpine at CU research computing)"
+        "High-performance computing (Summit and Alpine at CU research computing)"
       ]
     }
   ],
@@ -185,27 +185,27 @@
   ],
   "interests": [
     {
-      "name": "Bioinformatics",
+      "name": "selfhosting",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Genomics",
-        "NGS",
-        "Machine learning",
-        "GWAS",
-        "Precision Medicine"
+        "Arch Linux",
+        "NextCloud",
+        "Miniflux",
+        "Plex",
+        ""
       ]
     }
   ],
   "references": [
     {
       "name": "Raphael A. Nemenoff, Ph.D.",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Dr. Nemenoff is a longtime collaborator with our group and director of basic research at Division of Renal Diseases and Hypertension"
+      "icon": "fa-solid fa-user-tie",
+      "reference": "I have had the privilege of mentoring Dr. Lu since he began his postdoctoral training. I am continually impressed by his dedication to scientific inquiry and research excellence."
     },
     {
-      "name": "Duygu Dee Harrison-Findik , D.V.M., Ph.D.",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Dr. Harrison-Findik was my PhD mentor at University of Nebraska Medical Center."
+      "name": "Duygu Dee Harrison-Findik, D.V.M., Ph.D.",
+      "icon": "fa-solid fa-user-tie",
+	"reference": "As his PhD mentor, I was impressed by Kevin’s intellect, his thoughtful approach to science and his work ethic."
     }
   ],
   "projects": [
@@ -238,7 +238,7 @@
       "name": "Smooth muscle cell-derived vascular progenitor cells promote cardiovascular remodeling and fibrosis through loss of Klf4 activity and spontaneous differentiation into myofibroblasts.",
       "summary": "We used lineage tracing mouse models, combined with RNA-seq, scRNA-seq technologies to examine the function of vascular progenitor cells in cardiovascular remodeling",
       "highlights": [
-        "AdvSca1",
+        "AdvSca1 cells",
         "Vascular remodeling",
         "RNA-seq",
         "Progenitor cells"
