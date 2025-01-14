@@ -141,7 +141,7 @@
     {
       "name": "Molecular Biology",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-dna",
       "keywords": [
         "RNA and DNA extraction",
         "PCR & qPCR",
@@ -157,17 +157,61 @@
       ]
     },
     {
-      "name": "Bioinformatics",
+      "name": "Omics Methods",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-check",
       "keywords": [
-        "Bulk RNA-seq analysis",
-        "scRNA-seq analysis",
-        "Metabolomic data analysis",
-        "R programming",
-        "Python programming",
-        "Linux Shell Scripting",
-        "High-performance computing (Summit and Alpine at CU research computing)"
+        "RNA-seq",
+        "scRNA-seq",
+	      "ATAC-seq",
+        "Spatial Transcriptomics",
+        "Metabolomics"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "icon": "fa-solid fa-python",
+      "keywords": [
+        "Anaconda",
+        "Jupyter",
+        "Pandas",
+        "Anndata",
+        "Scanpy",
+        "scvi-tools",
+        "Scvelo",
+        "Squidpy",
+        "cellpose",
+        "CellRank",
+        "LIANA",
+        "PyDESeq2",
+        "Pytometry",
+        "GPU acceleration (Cuda)"
+      ]
+    },  
+    {
+      "name": "R",
+      "level": "Master",
+      "icon": "fa-solid fa-r-project",
+      "keywords": [
+        "Tidyr",
+        "ggplot2",
+        "limma",
+        "Seurat"
+      ]
+    },
+    {
+      "name": "Linux/Unix",
+      "level": "Master",
+      "icon": "fa-solid fa-linux",
+      "keywords": [
+        "Bash scripting",
+        "Slurm batch system",
+        "High-performance computing",
+        "RNA-seq aligner (STAR, HISAT2)",
+        "Cell/Space Ranger",
+        "Git/GitHub",
+        "Gene Expression Omnibus (GEO) database submission and access"
       ]
     }
   ],
