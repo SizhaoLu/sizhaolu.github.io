@@ -31,7 +31,8 @@
       "endDate": "2020-12-31",
       "summary": "Postdoctoral training in Dr. Weiser-Evans Laboratory.",
       "highlights": [
-        "Function of vascular smooth muscle cells and progenitor cells in cardiovascular remodeling"
+        "Focus: Function of vascular smooth muscle cells and progenitor cells in vascular remodeling",
+        "Key technical achievement: Quantitative imaging analysis of fibrosis"
       ]
     },
     {
@@ -42,7 +43,8 @@
       "endDate": "2023-09-30",
       "summary": "Junior faculty appointment.",
       "highlights": [
-        "Metabolic reprogramming of vascular smooth muscle cells in injury"
+        "Focus: Metabolic reprogramming of vascular smooth muscle cells in injury",
+        "Key technical achievement: Assembly of unbiased immunofluorescent image analysis workflow using Cellpose, FIJI, and Python."
       ]
     },
     {
@@ -53,7 +55,8 @@
       "endDate": "",
       "summary": "Junior faculty appointment.",
       "highlights": [
-        "Function of perivascular progenitor cells in cardiovascular inflammation and fibrosis"
+        "Focus: Function of perivascular progenitor cells in cardiovascular inflammation and fibrosis",
+        "Key technical achievement: Bioinformatics analysis of scRNA-seq and spatial transcriptomics data focusing on differential expression, enrichment, trajectory and cell-cell communication analysis and visualization using scverse packages."
       ]
     }
   ],
