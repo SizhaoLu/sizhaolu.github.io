@@ -45,7 +45,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-vascular-progenitor-project",
+          title: 'Vascular Progenitor Project',
+          description: "In this project, I examined the function and regulation of vascular progenitor cells in the setting of acute and chronic vascular injury.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/progenitor_project/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
