@@ -232,6 +232,10 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ".well-known"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
