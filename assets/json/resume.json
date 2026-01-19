@@ -6,7 +6,13 @@
     "email": "sizhao.lu@cuanschutz.edu",
     "phone": "(303) 724-4820",
     "url": "https://sizhaolu.github.io/",
-    "summary": "My expertise spans from developing preclinical models of complex diseases to investigating molecular signaling pathways. I have extensive experience in bioinformatics analysis of omics data and its applications in research. I am particularly passionate about uncovering the genetic foundations of diseases and advancing personalized treatment approaches.",
+      "summary": "Lead research scientist with 10+ years of experience in genomics, bioinformatics, 
+and molecular biology. Expertise in NGS technologies, single-cell analysis, and 
+end-to-end research—from wet lab experimentation to computational pipeline 
+development and data analysis. Proven track record leading multi-disciplinary 
+projects, securing competitive funding, and publishing in peer-reviewed journals. 
+Strong background in disease mechanisms and translational research with experience 
+in cardiovascular biology and oncology.",
     "location": {
       "address": "12700 E 19th Ave, Mail Stop C281",
       "postalCode": "CO 80045",
@@ -32,7 +38,8 @@
       "summary": "Postdoctoral training in Dr. Weiser-Evans Laboratory.",
       "highlights": [
         "Focus: Function of vascular smooth muscle cells and progenitor cells in vascular remodeling",
-        "Key technical achievement: Quantitative imaging analysis of fibrosis"
+	"Quantitative imaging-based fibrosis analysis and transcriptomics pipelines",
+	"Advanced statistical analysis using R scripting for biological data interpretation"
       ]
     },
     {
@@ -44,7 +51,8 @@
       "summary": "Junior faculty appointment.",
       "highlights": [
         "Focus: Metabolic reprogramming of vascular smooth muscle cells in injury",
-        "Key technical achievement: Assembly of unbiased immunofluorescent image analysis workflow using Cellpose, FIJI, and Python."
+	"Established an automated, unbiased immunofluorescent image analysis workflow using Python, Cellpose, and Spatialdata",  
+        "Biological data analysis in Python",
       ]
     },
     {
@@ -53,10 +61,12 @@
       "url": "https://medschool.cuanschutz.edu/renal",
       "startDate": "2023-10-01",
       "endDate": "",
-      "summary": "Junior faculty appointment.",
+      "summary": "Faculty appointment.",
       "highlights": [
-        "Focus: Function of perivascular progenitor cells in cardiovascular inflammation and fibrosis",
-        "Key technical achievement: Bioinformatics analysis of scRNA-seq and spatial transcriptomics data focusing on differential expression, enrichment, trajectory and cell-cell communication analysis and visualization using scverse packages."
+        "Focus: Function of perivascular progenitor cells in cardiovascular fibrosis and tumorigenesis",
+        "Led multi-omics integration projects combining scRNA-seq, spatial transcriptomics, and ATAC-seq data",
+	"Developed and mentored lab members in advanced bioinformatics workflows",
+	"Collaborated with cross-functional teams including clinicians and basic scientists"
       ]
     }
   ],
@@ -138,6 +148,20 @@
       "releaseDate": "2020-12-03",
       "url": "https://insight.jci.org/articles/view/139445",
       "summary": "Identified and characterized a novel smooth muscle-derived vascular progenitor cell population (AdvSca1-SM), demonstrating its role in adventitial remodeling through lineage tracing and RNA-seq."
+    },
+    {
+      "name": "KLF4 in smooth muscle cell-derived progenitor cells is essential for angiotensin II-induced cardiac inflammation and fibrosis",
+      "publisher": "bioRxiv",
+      "releaseDate": "2024-06-06",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.06.04.597485v1",
+      "summary": "Defined the differentiation trajectory of vascular progenitor cells and characterized the impact of Klf4 depletion on profibrotic responses using single-cell RNA sequencing."
+    },
+    {
+      "name": "Klf4-dependent pivotal role of smooth muscle-derived Gli1+ lineage progenitor cells in lung cancer progression",
+      "publisher": "bioRxiv",
+      "releaseDate": "2025-06-03",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.05.30.657094v1",
+      "summary": "Defined the contribution of vascular progenitor cells to the cancer-associated fibroblast pool in a lung cancer model. Discovered that vascular progenitor-specific Klf4 depletion exhibits anti-tumorigenic effects associated with enhanced immune response in the tumor microenvironment."
     }
   ],
   "skills": [
@@ -201,6 +225,18 @@
         "ggplot2",
         "limma",
         "Seurat"
+      ]
+    },
+    {
+      "name": "Computational & Statistical Methods",
+      "level": "Master",
+      "icon": "fa-solid fa-check",
+      "keywords": [
+        "Statistical modeling and hypothesis testing",
+        "Differential expression analysis",
+	"Trajectory inference and pseudotime analysis",
+        "Cell-cell communication modeling",
+        "Multi-omic data integration"
       ]
     },
     {
