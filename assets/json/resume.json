@@ -6,13 +6,7 @@
     "email": "sizhao.lu@cuanschutz.edu",
     "phone": "(303) 724-4820",
     "url": "https://sizhaolu.github.io/",
-      "summary": "Lead research scientist with 10+ years of experience in genomics, bioinformatics, 
-and molecular biology. Expertise in NGS technologies, single-cell analysis, and 
-end-to-end research—from wet lab experimentation to computational pipeline 
-development and data analysis. Proven track record leading multi-disciplinary 
-projects, securing competitive funding, and publishing in peer-reviewed journals. 
-Strong background in disease mechanisms and translational research with experience 
-in cardiovascular biology and oncology.",
+    "summary": "Lead research scientist with 10+ years of experience in genomics, bioinformatics, and molecular biology. Expertise in NGS technologies, single-cell analysis, and end-to-end research—from wet lab experimentation to computational pipeline development and data analysis. Proven track record leading multi-disciplinary projects, securing competitive funding, and publishing in peer-reviewed journals. Strong background in disease mechanisms and translational research with experience in cardiovascular biology and oncology.",
     "location": {
       "address": "12700 E 19th Ave, Mail Stop C281",
       "postalCode": "CO 80045",
@@ -38,8 +32,8 @@ in cardiovascular biology and oncology.",
       "summary": "Postdoctoral training in Dr. Weiser-Evans Laboratory.",
       "highlights": [
         "Focus: Function of vascular smooth muscle cells and progenitor cells in vascular remodeling",
-	"Quantitative imaging-based fibrosis analysis and transcriptomics pipelines",
-	"Advanced statistical analysis using R scripting for biological data interpretation"
+        "Quantitative imaging-based fibrosis analysis and transcriptomics pipelines",
+        "Advanced statistical analysis using R scripting for biological data interpretation"
       ]
     },
     {
@@ -51,8 +45,8 @@ in cardiovascular biology and oncology.",
       "summary": "Junior faculty appointment.",
       "highlights": [
         "Focus: Metabolic reprogramming of vascular smooth muscle cells in injury",
-	"Established an automated, unbiased immunofluorescent image analysis workflow using Python, Cellpose, and Spatialdata",  
-        "Biological data analysis in Python",
+        "Established an automated, unbiased immunofluorescent image analysis workflow using Python, Cellpose, and Spatialdata",
+        "Biological data analysis in Python"
       ]
     },
     {
@@ -65,8 +59,8 @@ in cardiovascular biology and oncology.",
       "highlights": [
         "Focus: Function of perivascular progenitor cells in cardiovascular fibrosis and tumorigenesis",
         "Led multi-omics integration projects combining scRNA-seq, spatial transcriptomics, and ATAC-seq data",
-	"Developed and mentored lab members in advanced bioinformatics workflows",
-	"Collaborated with cross-functional teams including clinicians and basic scientists"
+        "Developed and mentored lab members in advanced bioinformatics workflows",
+        "Collaborated with cross-functional teams including clinicians and basic scientists"
       ]
     }
   ],
@@ -133,7 +127,7 @@ in cardiovascular biology and oncology.",
       "publisher": "J. Biol. Chem. 2015 Oct 2;290(40):24178-89",
       "releaseDate": "2015-10-02",
       "url": "http://www.jbc.org/content/290/40/24178",
-      "summary": "lipids mediate post-transcriptional regulation of HAMP throughPKC- and HuR-dependent mechanisms."
+      "summary": "Lipids mediate post-transcriptional regulation of HAMP through PKC- and HuR-dependent mechanisms."
     },
     {
       "name": "PTEN (Phosphatase and Tensin Homolog) Protects Against Ang II (Angiotensin II)-Induced Pathological Vascular Fibrosis and Remodeling-Brief Report",
@@ -143,7 +137,7 @@ in cardiovascular biology and oncology.",
       "summary": "Systemic PTEN elevation mediates protection against Ang II-induced vascular inflammation and fibrosis predominantly through effects in resident vascular cells."
     },
     {
-      "name": "Smooth muscle–derived progenitor cell myofibroblast differentiation through KLF4 downregulation promotes arterial remodeling and fibrosis",
+      "name": "Smooth muscle-derived progenitor cell myofibroblast differentiation through KLF4 downregulation promotes arterial remodeling and fibrosis",
       "publisher": "JCI Insight. 2020 Dec 3;5(23):e139445",
       "releaseDate": "2020-12-03",
       "url": "https://insight.jci.org/articles/view/139445",
@@ -190,7 +184,7 @@ in cardiovascular biology and oncology.",
       "keywords": [
         "RNA-seq",
         "scRNA-seq",
-	      "ATAC-seq",
+        "ATAC-seq",
         "Spatial Transcriptomics",
         "Metabolomics"
       ]
@@ -215,7 +209,7 @@ in cardiovascular biology and oncology.",
         "Pytometry",
         "GPU acceleration (Cuda)"
       ]
-    },  
+    },
     {
       "name": "R",
       "level": "Master",
@@ -234,7 +228,7 @@ in cardiovascular biology and oncology.",
       "keywords": [
         "Statistical modeling and hypothesis testing",
         "Differential expression analysis",
-	"Trajectory inference and pseudotime analysis",
+        "Trajectory inference and pseudotime analysis",
         "Cell-cell communication modeling",
         "Multi-omic data integration"
       ]
@@ -274,8 +268,7 @@ in cardiovascular biology and oncology.",
         "Arch Linux",
         "NextCloud",
         "Miniflux",
-        "Plex",
-        ""
+        "Plex"
       ]
     }
   ],
@@ -288,13 +281,13 @@ in cardiovascular biology and oncology.",
     {
       "name": "Duygu Dee Harrison-Findik, D.V.M., Ph.D.",
       "icon": "fa-solid fa-user-tie",
-	"reference": "As his PhD mentor, I was impressed by Kevin’s intellect, his thoughtful approach to science and his work ethic."
+      "reference": "As his PhD mentor, I was impressed by Kevin's intellect, his thoughtful approach to science and his work ethic."
     }
   ],
   "projects": [
     {
       "name": "A novel link between lipid and iron metabolism.",
-      "summary": "In my dissertation work, I characterized molecular mechanisms for the induction of hepcidin expression by two lipid species. Specifically, saturated fatty acids induce hepcidin expression by activating the nucleo-cytosolic shuttling of Human Antigen R (HuR), which stabilizes hepcidin mRNA through direct interaction with the AU-rich element in its 3’UTR. In addition, I have discovered that ceramide, a lipid intermediate, activates inflammatory signaling pathway, JAK/STAT3, and STAT3 directly interacts with its response element in the hepcidin promoter, therefore activates transcription.",
+      "summary": "In my dissertation work, I characterized molecular mechanisms for the induction of hepcidin expression by two lipid species. Specifically, saturated fatty acids induce hepcidin expression by activating the nucleo-cytosolic shuttling of Human Antigen R (HuR), which stabilizes hepcidin mRNA through direct interaction with the AU-rich element in its 3'UTR. In addition, I have discovered that ceramide, a lipid intermediate, activates inflammatory signaling pathway, JAK/STAT3, and STAT3 directly interacts with its response element in the hepcidin promoter, therefore activates transcription.",
       "highlights": [
         "Lipid metabolism",
         "Iron metabolism",
